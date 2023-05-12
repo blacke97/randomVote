@@ -11,6 +11,7 @@ voted = int (input("请输入被投票人数："))
 
 res = [0] * voted
 for i in range(voter):
+    # sample 顾名思义 采样 不重复
     person = rd.sample(range(0, voted), tickets)
     for j in person:
         res[j]+=1
