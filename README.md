@@ -1,2 +1,2 @@
 # randomVote
-Sometimes we want generate some data when we vote to somebody, this may help you.
+Sometimes we want to generate some data when we vote to somebody, this may helps you.
